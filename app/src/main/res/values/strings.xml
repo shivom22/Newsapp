@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">vvviewww</string>
+    <string name="vire">This is an extremely popular story about a hare and a tortoise.
+The hare is an animal that is known to move quickly, while a tortoise is one to move slowly.
+One day, the hare challenged the tortoise to a race simply to prove that he was the best. The tortoise agreed.
+Once the race began the hare was easily able to get a head start. Upon realizing that the tortoise is far behind. The overconfident hare decided to take a
+</string>
+    <string name="Box_one">\n</string>
+    <string name="Box_two" />
+    <string name="Box_three" />
+    <string name="Box_four" />
+    <string name="Box_five" />
+
+    <style name="WhiteBox">
+        <item name="android:background">@android:color/black</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">sans-serif-condensed</item>
+
+    </style>
+</resources>
